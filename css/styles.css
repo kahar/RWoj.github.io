@@ -854,6 +854,10 @@ input[type=button].btn-block {
     background-color: #31a420;
 }
 
+.timeline > li .timeline-image.beone {
+    background-color: #1dc600;
+}
+
 .timeline > li .timeline-image.naviexpert {
     background-color: #e95810;
 }
